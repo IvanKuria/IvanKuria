@@ -8,7 +8,7 @@ I've been learning to code since high school with python as my first language. S
 
 * 🌍  I'm based in Santa Cruz
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
-* 🚀  I'm currently working on [QR Code Generator](http://github.com/IvanKuria/qr-code-generator)
+* 🚀  I'm currently working on a [CRUD Backend](https://github.com/IvanKuria/NodeJs-Express-CRUD)
 * 🧠  I'm learning MongoDB, Reactjs, Expressjs, Nodejs and Selenium
 * ⚡  I was named after Ivan The Great
 
