@@ -7,6 +7,7 @@ CS Student at UC Santa Cruz
 I've been learning to code since high school with python as my first language. Since then I've been learning HTML, CSS and JS for frontend development and Nodejs and Expressjs for backend development.
 
 * 🌍  I'm based in Santa Cruz
+* Website: [Personal Site](https://ivankuria.github.io/personal-website/)
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
 * 🚀  I'm currently working on a [CRUD Backend](https://github.com/IvanKuria/NodeJs-Express-CRUD)
 * 🧠  I'm learning MongoDB, Reactjs, Expressjs, Nodejs and Selenium
