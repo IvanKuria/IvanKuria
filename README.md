@@ -9,6 +9,7 @@ I've been learning to code since high school with python as my first language. S
 * 🌍  I'm based in Santa Cruz
 * 🌐  Website: [Personal Site](https://ivankuria.github.io/personal-website/)
 * 🌐  Grocery Reminder App Using React [Grocery Reminder](https://ivankuria.github.io/react-grocery-reminder/)
+* 🌐  Pomodoro-Tv Themed App Using React [Tvdoro](https://tvdoro.netlify.app/)
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
 * 🚀  I'm currently working on a [CRUD Backend](https://github.com/IvanKuria/NodeJs-Express-CRUD)
 * 🧠  I'm learning MongoDB, Reactjs, Expressjs, Nodejs and Selenium
