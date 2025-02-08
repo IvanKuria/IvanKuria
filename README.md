@@ -11,8 +11,8 @@ I've been learning to code since high school with python as my first language. S
 * 🌐  Grocery Reminder App Using React [Grocery Reminder](https://ivankuria.github.io/react-grocery-reminder/)
 * 🌐  Pomodoro-Tv Themed App Using React [Tvdoro](https://tvdoro.netlify.app/)
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
-* 🚀  I'm currently working on a [CRUD Backend](https://github.com/IvanKuria/NodeJs-Express-CRUD)
-* 🧠  I'm learning MongoDB, Reactjs, Expressjs, Nodejs and Selenium
+* 🚀  I'm currently working on a second version of the grocery reminder app that makes use of Supabase for the db
+* 🧠  I'm learning Supabase and Reactjs
 * ⚡  I was named after Ivan The Great
 
 ### Skills
