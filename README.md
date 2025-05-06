@@ -4,7 +4,7 @@ Hi 👋 My name is Ivan Kuria
 CS Student at UC Santa Cruz who doesn't use VIM
 ---------------------------
 
-Um I don't know what to put here besides the fact that I don't want to learn VIM despite the outrage from a certain group of cracked devs. Oh and even if I did know VIM I wouldn't use it lol :) Emacs though...
+Um I don't know what to put here besides the fact that I don't want to learn VIM despite the outrage from a certain group of cracked devs. Oh and even if I did know VIM, I wouldn't use it lol :) Emacs though...
 
 * 🌍  I'm based in Santa Cruz(no we're not only known for hippies)
 * 🌐  Website: [Personal Site](https://ivankuria.github.io/personal-website/)
