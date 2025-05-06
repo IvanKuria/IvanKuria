@@ -4,9 +4,9 @@ Hi 👋 My name is Ivan Kuria
 CS Student at UC Santa Cruz
 ---------------------------
 
-I've been learning to code since high school with python as my first language. Since then I've been learning React for frontend development and Nodejs and Expressjs for backend development.
+Um I don't know what to put here besides the fact that I don't want to learn VIM despite the outrage from a certain group of cracked devs. Oh and even if I did know VIM I wouldn't use it lol :) Emacs though...
 
-* 🌍  I'm based in Santa Cruz
+* 🌍  I'm based in Santa Cruz(no we're not only known for hippies)
 * 🌐  Website: [Personal Site](https://ivankuria.github.io/personal-website/)
 * 🌐  Grocery Reminder App Using React [Grocery Reminder](https://ivankuria.github.io/react-grocery-reminder/)
 * 🌐  Pomodoro-Tv Themed App Using React [Tvdoro](https://tvdoro.netlify.app/)
