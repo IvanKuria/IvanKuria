@@ -8,12 +8,9 @@ Um I don't know what to put here besides the fact that I don't want to learn VIM
 
 * 🌍  I'm based in Santa Cruz(no we're not only known for hippies)
 * 🌐  Website: [Personal Site](https://ivankuria.github.io/personal-website/)
-* 🌐  Grocery Reminder App Using React [Grocery Reminder](https://ivankuria.github.io/react-grocery-reminder/)
-* 🌐  Pomodoro-Tv Themed App Using React [Tvdoro](https://tvdoro.netlify.app/)
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
-* 🚀  I'm currently working on a second version of the grocery reminder app that makes use of Supabase for the db
-* 🧠  I'm learning TypeScript and Reactjs
-* ⚡   I was named after Ivan The Great
+* 🚀  I'm the creator of [RateMy Slugs](https://chromewebstore.google.com/detail/ratemy-slugs/ddmahbdpmhbeohjjblfopgggdbfieboo), a Chrome exetension that shows Rate My Professors ratings for UCSC courses on MyUCSC enrollment pages with 500+ users!
+* 🧠  I'm currently learning TypeScript
 
 
 # 💻 Tech Stack:
