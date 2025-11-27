@@ -9,7 +9,7 @@ Um I don't know what to put here besides the fact that I don't want to learn VIM
 * 🌍  I'm based in Santa Cruz
 * 🌐  Website: [Personal Site](https://ivankuria.github.io/obsidian-website/)
 * ✉️  You can contact me at [ivankuria7@gmail.com](mailto:ivankuria7@gmail.com)
-* 🚀  I'm the creator of [RateMy Slugs](https://chromewebstore.google.com/detail/ratemy-slugs/ddmahbdpmhbeohjjblfopgggdbfieboo), a Chrome exetension that shows Rate My Professors ratings for UCSC courses on MyUCSC enrollment pages with 400+ users!
+* 🚀  I'm the creator of [Rate My Slugs](https://chromewebstore.google.com/detail/ratemy-slugs/ddmahbdpmhbeohjjblfopgggdbfieboo), a Chrome exetension that shows Rate My Professors ratings for UCSC courses on MyUCSC enrollment pages with 400+ users!
 * 🧠  I'm currently learning TypeScript
 
 
