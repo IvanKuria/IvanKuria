@@ -28,6 +28,19 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      # GitHub's GraphQL API returns descriptions/titles HTML-escaped (e.g. &#43;,
+      # &amp;, &#39;); markscribe (text/template) passes them through verbatim.
+      # Decode them so the rendered README shows +, &, ' etc. cleanly.
+      - name: Decode HTML entities in README
+        run: |
+          python3 - <<'PY'
+          import html
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(html.unescape(content))
+          PY
+
       - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v6.0.1
         with:
           commit_message: 'Update generated README'
