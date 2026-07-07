@@ -13,15 +13,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (5 days ago)
-- [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (6 days ago)
+- [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (6 days ago)
+- [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (1 week ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 week ago)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (1 week ago)
 - [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (1 week ago)
 - [IvanKuria/Rate-My-Slugs-Server](https://github.com/IvanKuria/Rate-My-Slugs-Server) - simple node & express server to fetch grade distribution info for professors at UCSC (1 week ago)
 - [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) - an improved google drive/icould enhancer (1 week ago)
 - [IvanKuria/mise](https://github.com/IvanKuria/mise) -  (1 week ago)
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) - Modern, extremely fast macOS disk space analyzer. (1 week ago)
+- [colinvkim/Radix](https://github.com/colinvkim/Radix) - Modern, extremely fast macOS disk space analyzer. (2 weeks ago)
 - [IvanKuria/Twine](https://github.com/IvanKuria/Twine) -  (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
@@ -29,12 +29,12 @@
 - [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (1 week ago)
 - [Add app icon, screenshots, and professional README](https://github.com/IvanKuria/tafuta/pull/2) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (1 week ago)
 - [Apple-native Liquid-Glass redesign + puppy mascot](https://github.com/IvanKuria/tafuta/pull/1) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (1 week ago)
-- [test: add percentage formatter coverage](https://github.com/colinvkim/Radix/pull/13) on [colinvkim/Radix](https://github.com/colinvkim/Radix) (1 week ago)
-- [content(learn): add 'Does Rotrends have an API?' Q&A entry](https://github.com/IvanKuria/bloxscout/pull/78) on [IvanKuria/bloxscout](https://github.com/IvanKuria/bloxscout) (2 weeks ago)
+- [test: add percentage formatter coverage](https://github.com/colinvkim/Radix/pull/13) on [colinvkim/Radix](https://github.com/colinvkim/Radix) (2 weeks ago)
+- [content(learn): add 'Does Rotrends have an API?' Q&A entry](https://github.com/IvanKuria/bloxscout/pull/78) on [IvanKuria/bloxscout](https://github.com/IvanKuria/bloxscout) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.4.1](https://github.com/colinvkim/Radix/releases/tag/v1.4.1), 3 days ago) - Modern, extremely fast macOS disk space analyzer.
+- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.4.1](https://github.com/colinvkim/Radix/releases/tag/v1.4.1), 4 days ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) ([v0.1.0](https://github.com/IvanKuria/tafuta/releases/tag/v0.1.0), 1 week ago) - an improved google drive/icould enhancer
 - [IvanKuria/mise](https://github.com/IvanKuria/mise) ([v0.1.0](https://github.com/IvanKuria/mise/releases/tag/v0.1.0), 1 week ago)
 - [IvanKuria/blip](https://github.com/IvanKuria/blip) ([v0.1.0](https://github.com/IvanKuria/blip/releases/tag/v0.1.0), 2 weeks ago) - A tiny, native macOS app that confirms every copy in your notch — and shows what you grabbed. Not a clipboard manager.
