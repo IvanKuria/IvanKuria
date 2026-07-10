@@ -34,7 +34,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.4.1](https://github.com/colinvkim/Radix/releases/tag/v1.4.1), 6 days ago) - Modern, extremely fast macOS disk space analyzer.
+- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.4.1](https://github.com/colinvkim/Radix/releases/tag/v1.4.1), 1 week ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) ([v0.1.0](https://github.com/IvanKuria/tafuta/releases/tag/v0.1.0), 1 week ago) - an improved google drive/icould enhancer
 - [IvanKuria/mise](https://github.com/IvanKuria/mise) ([v0.1.0](https://github.com/IvanKuria/mise/releases/tag/v0.1.0), 2 weeks ago)
 - [IvanKuria/blip](https://github.com/IvanKuria/blip) ([v0.1.0](https://github.com/IvanKuria/blip/releases/tag/v0.1.0), 2 weeks ago) - A tiny, native macOS app that confirms every copy in your notch — and shows what you grabbed. Not a clipboard manager.
@@ -42,10 +42,10 @@
 
 #### ⭐ Recent Stars
 
-- [fstr415/TikTok-Poll-Voting-Exploit](https://github.com/fstr415/TikTok-Poll-Voting-Exploit) - Modern day TikTok exploit that allows you to fake having the "Voted on" text under any tiktok for anyone to see, no matter if the tiktok has the poll or not. Anything you want can be written after "Voted on" (1 day ago)
-- [NUber-dev/YTubic](https://github.com/NUber-dev/YTubic) - Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React (2 days ago)
-- [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (1 week ago)
-- [DuffyAdams/san-diego-traffic-watch](https://github.com/DuffyAdams/san-diego-traffic-watch) - San Diego Watch is a real-time traffic application that collects live incident data from the California Highway Patrol and displays it on interactive maps. It provides up-to-date information on accidents, hazards, and road conditions through a clean, user-friendly interface. (1 week ago)
-- [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) - an improved google drive/icould enhancer (1 week ago)
+- [jacobaraujo7/remote_pi](https://github.com/jacobaraujo7/remote_pi) - Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you're away from your computer. (today)
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code (today)
+- [KiyoshiTheDevil/Kodama](https://github.com/KiyoshiTheDevil/Kodama) - Kodama — a desktop YouTube Music client (Tauri 2 · React · Python · Rust). (1 day ago)
+- [fstr415/TikTok-Poll-Voting-Exploit](https://github.com/fstr415/TikTok-Poll-Voting-Exploit) - Modern day TikTok exploit that allows you to fake having the "Voted on" text under any tiktok for anyone to see, no matter if the tiktok has the poll or not. Anything you want can be written after "Voted on" (2 days ago)
+- [NUber-dev/YTubic](https://github.com/NUber-dev/YTubic) - Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React (3 days ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=IvanKuria&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
