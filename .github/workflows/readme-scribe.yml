@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   markscribe:
@@ -41,9 +42,107 @@ jobs:
               f.write(html.unescape(content))
           PY
 
+      # markscribe renders one template in one pass, so a single API error
+      # aborts the whole thing. It leaves the previous README in place rather
+      # than truncating it, but that is worth asserting rather than assuming:
+      # committing a gutted profile page would be worse than not updating.
+      - name: Sanity-check the rendered README
+        run: |
+          lines=$(wc -l < README.md)
+          if [ "$lines" -lt 20 ]; then
+            echo "::error::README rendered with only $lines lines; refusing to commit."
+            exit 1
+          fi
+          for heading in "latest projects" "currently working on" "recent Pull Requests"; do
+            if ! grep -qF "$heading" README.md; then
+              echo "::error::Rendered README is missing the '$heading' section."
+              exit 1
+            fi
+          done
+          echo "README looks intact ($lines lines)."
+
       - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v6.0.1
         with:
           commit_message: 'Update generated README'
           branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      # GitHub disables scheduled workflows after 60 days of repository
+      # inactivity. The daily README commit normally keeps the repo active, but
+      # a failing run produces no commit — so a long outage would eventually
+      # disable the cron on top of itself, turning a fixable break into a silent
+      # permanent one. An empty commit well inside that window prevents it.
+      # Runs even when earlier steps failed, which is exactly when it matters.
+      - name: Keep the schedule alive
+        if: always()
+        run: |
+          if [ -n "$(git log -1 --since='50 days ago' --format=%H)" ]; then
+            echo "Repository active within 50 days; no keepalive needed."
+            exit 0
+          fi
+          echo "No commits in 50 days — pushing an empty commit to keep the cron enabled."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Keep scheduled workflow alive"
+          git push
+
+      # This workflow failed silently for 23 consecutive days. Nothing was
+      # broken about the failure itself — it was the absence of a signal. Open
+      # exactly one issue and leave it open, so a repeat is visible on the repo
+      # rather than buried in the Actions tab.
+      - name: Report failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          ISSUE_TITLE: README auto-update is failing
+        run: |
+          # Match on the exact title client-side rather than through the search
+          # index: search is fuzzy and eventually consistent, and a missed match
+          # would file a duplicate issue every single day.
+          open_issue=$(gh issue list --state open --json number,title \
+            | jq -r --arg t "$ISSUE_TITLE" '.[] | select(.title == $t) | .number' | head -1)
+          if [ -n "$open_issue" ]; then
+            echo "Issue #$open_issue is already open; not filing a duplicate."
+            exit 0
+          fi
+
+          # Quoted delimiter: the body contains backticks, which an unquoted
+          # heredoc would run as command substitution.
+          cat > /tmp/issue-body.md <<'EOF'
+          The scheduled README update failed, so the profile page has stopped updating.
+
+          Most likely causes, in order:
+
+          1. `PERSONAL_GITHUB_TOKEN` lost access. The template's `recentContributions`
+             reads the GraphQL `contributionsCollection` field, which needs a **classic**
+             PAT with `read:user`. A fine-grained PAT is refused with
+             "Resource not accessible by personal access token" — this exact break
+             happened in July 2026 and went unnoticed for 23 days.
+          2. The token expired or was revoked (that shows as "Bad credentials" instead).
+          3. GitHub's API changed under one of the template functions.
+
+          Look in the failing step's log for the `Can't render template` line — it names
+          the specific template function that was refused.
+
+          This issue closes itself once a run succeeds.
+          EOF
+          printf '\nFailed run: %s\n' "$RUN_URL" >> /tmp/issue-body.md
+
+          gh issue create --title "$ISSUE_TITLE" --body-file /tmp/issue-body.md
+
+      # Clear the alert once things recover, so a stale issue never masks a
+      # genuine future failure.
+      - name: Resolve failure issue
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          ISSUE_TITLE: README auto-update is failing
+        run: |
+          open_issue=$(gh issue list --state open --json number,title \
+            | jq -r --arg t "$ISSUE_TITLE" '.[] | select(.title == $t) | .number' | head -1)
+          if [ -n "$open_issue" ]; then
+            gh issue close "$open_issue" --comment "Recovered — the README updated successfully in $RUN_URL"
+          fi
