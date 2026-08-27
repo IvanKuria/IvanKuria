@@ -22,13 +22,13 @@
 - [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (1 month ago)
 - [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (1 month ago)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (1 month ago)
-- [IvanKuria/Rate-My-Slugs-Server](https://github.com/IvanKuria/Rate-My-Slugs-Server) - simple node & express server to fetch grade distribution info for professors at UCSC (1 month ago)
+- [IvanKuria/Rate-My-Slugs-Server](https://github.com/IvanKuria/Rate-My-Slugs-Server) - simple node & express server to fetch grade distribution info for professors at UCSC (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Faithful Wii Menu UI redesign (custom Core Graphics, verified by render)](https://github.com/IvanKuria/ivans-menu/pull/2) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (1 month ago)
 - [Ivan's Menu — interactive Wii-style desktop launcher for macOS](https://github.com/IvanKuria/ivans-menu/pull/1) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (1 month ago)
-- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (1 month ago)
+- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (2 months ago)
 - [Add app icon, screenshots, and professional README](https://github.com/IvanKuria/tafuta/pull/2) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (2 months ago)
 - [Apple-native Liquid-Glass redesign + puppy mascot](https://github.com/IvanKuria/tafuta/pull/1) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (2 months ago)
 
@@ -42,8 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (5 days ago)
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (2 weeks ago)
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (6 days ago)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (3 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (1 month ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program (1 month ago)
