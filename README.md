@@ -20,8 +20,8 @@
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (1 month ago)
 - [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (1 month ago)
 - [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (1 month ago)
-- [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (1 month ago)
-- [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (1 month ago)
+- [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (2 months ago)
+- [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (2 months ago)
 - [IvanKuria/Rate-My-Slugs-Server](https://github.com/IvanKuria/Rate-My-Slugs-Server) - simple node & express server to fetch grade distribution info for professors at UCSC (2 months ago)
 
 #### 🔨 My recent Pull Requests
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (6 days ago)
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (1 week ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (3 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (1 month ago)
