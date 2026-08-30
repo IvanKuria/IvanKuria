@@ -14,11 +14,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (2 weeks ago)
-- [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (2 weeks ago)
+- [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (3 weeks ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (1 month ago)
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo. (1 month ago)
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (1 month ago)
-- [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (1 month ago)
+- [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (2 months ago)
 - [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (2 months ago)
 - [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (2 months ago)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (2 months ago)
@@ -35,7 +35,7 @@
 #### 🚀 Latest releases I've contributed to
 
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) ([v2.2.0](https://github.com/IvanKuria/rate-my-slugs/releases/tag/v2.2.0), 2 weeks ago)
-- [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) ([v0.3.0](https://github.com/IvanKuria/sms-code-bridge/releases/tag/v0.3.0), 2 weeks ago)
+- [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) ([v0.3.0](https://github.com/IvanKuria/sms-code-bridge/releases/tag/v0.3.0), 3 weeks ago)
 - [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.7.0](https://github.com/colinvkim/Radix/releases/tag/v1.7.0), 1 month ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) ([v1.0.0](https://github.com/IvanKuria/ivans-menu/releases/tag/v1.0.0), 1 month ago) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
 - [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) ([v0.1.0](https://github.com/IvanKuria/tafuta/releases/tag/v0.1.0), 2 months ago) - an improved google drive/icould enhancer
