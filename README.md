@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (1 week ago)
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (2 weeks ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (4 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (1 month ago)
