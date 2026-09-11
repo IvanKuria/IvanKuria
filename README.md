@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (4 weeks ago)
+- [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (1 month ago)
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (1 month ago)
@@ -34,7 +34,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) ([v2.2.0](https://github.com/IvanKuria/rate-my-slugs/releases/tag/v2.2.0), 4 weeks ago)
+- [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) ([v2.2.0](https://github.com/IvanKuria/rate-my-slugs/releases/tag/v2.2.0), 1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) ([v0.3.0](https://github.com/IvanKuria/sms-code-bridge/releases/tag/v0.3.0), 1 month ago)
 - [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.7.0](https://github.com/colinvkim/Radix/releases/tag/v1.7.0), 1 month ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) ([v1.0.0](https://github.com/IvanKuria/ivans-menu/releases/tag/v1.0.0), 1 month ago) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (2 weeks ago)
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (3 weeks ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 month ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (1 month ago)
