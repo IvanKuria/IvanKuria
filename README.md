@@ -1,5 +1,6 @@
 #### 🌱 My latest projects
 
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) - 
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type.
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) - 
@@ -9,20 +10,19 @@
 - [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) - 
 - [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) - an improved google drive/icould enhancer
-- [IvanKuria/Twine](https://github.com/IvanKuria/Twine) - 
 
 #### 👷 Check out what I'm currently working on
 
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 day ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (1 month ago)
-- [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (2 months ago)
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo. (2 months ago)
+- [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (2 months ago)
 - [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (2 months ago)
 - [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (2 months ago)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (2 months ago)
 - [IvanKuria/aggie-ratings](https://github.com/IvanKuria/aggie-ratings) - Rate My Professors ratings inside the UC Davis Class Search Tool (Chrome extension) (2 months ago)
-- [IvanKuria/Rate-My-Slugs-Server](https://github.com/IvanKuria/Rate-My-Slugs-Server) - simple node & express server to fetch grade distribution info for professors at UCSC (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (3 weeks ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 month ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
-- [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (1 month ago)
+- [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (2 months ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program (2 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=IvanKuria&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
