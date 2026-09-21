@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (6 days ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 week ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (1 month ago)
@@ -34,7 +34,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.8.0](https://github.com/colinvkim/Radix/releases/tag/v1.8.0), today) - Modern, extremely fast macOS disk space analyzer.
+- [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.8.0](https://github.com/colinvkim/Radix/releases/tag/v1.8.0), 1 day ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) ([v2.2.0](https://github.com/IvanKuria/rate-my-slugs/releases/tag/v2.2.0), 1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) ([v0.3.0](https://github.com/IvanKuria/sms-code-bridge/releases/tag/v0.3.0), 1 month ago)
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) ([v1.0.0](https://github.com/IvanKuria/ivans-menu/releases/tag/v1.0.0), 2 months ago) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [jrz97619761/test-model-thing](https://github.com/jrz97619761/test-model-thing) - A small proof-of-concept language model (not an LLM) incorporating latent-space prediction, internal state using recurrent trace units, and byte-by-byte output, built with MLX. (3 days ago)
+- [jrz97619761/test-model-thing](https://github.com/jrz97619761/test-model-thing) - A small proof-of-concept language model (not an LLM) incorporating latent-space prediction, internal state using recurrent trace units, and byte-by-byte output, built with MLX. (4 days ago)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (1 month ago)
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 month ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (2 months ago)
