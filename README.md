@@ -13,13 +13,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (1 day ago)
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 day ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (2 days ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (2 days ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (2 months ago)
-- [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo. (2 months ago)
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (2 months ago)
+- [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo. (2 months ago)
 - [IvanKuria/buckeye-ratings](https://github.com/IvanKuria/buckeye-ratings) - Rate My Professors ratings inside Ohio State's Class Search (Chrome extension) (3 months ago)
 - [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search (3 months ago)
 - [IvanKuria/buzz-ratings](https://github.com/IvanKuria/buzz-ratings) -  (3 months ago)
