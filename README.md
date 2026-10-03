@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (2 days ago)
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (2 days ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (3 days ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (3 days ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (2 months ago)
