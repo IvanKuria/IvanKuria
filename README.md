@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (4 days ago)
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (4 days ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (5 days ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (5 days ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (1 month ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (1 month ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (2 months ago)
@@ -42,9 +42,9 @@
 
 #### ⭐ Recent Stars
 
-- [jrz97619761/test-model-thing](https://github.com/jrz97619761/test-model-thing) - A small proof-of-concept language model (not an LLM) incorporating latent-space prediction, internal state using recurrent trace units, and byte-by-byte output, built with MLX. (2 weeks ago)
+- [jrz97619761/test-model-thing](https://github.com/jrz97619761/test-model-thing) - A small proof-of-concept language model (not an LLM) that aims to incorporate latent-space prediction, internal state using recurrent trace units, and byte-by-byte output, built with MLX. (2 weeks ago)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) -  (1 month ago)
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 month ago)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (2 months ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (2 months ago)
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files. (2 months ago)
 
