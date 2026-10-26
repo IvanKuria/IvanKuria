@@ -28,7 +28,7 @@
 
 - [Faithful Wii Menu UI redesign (custom Core Graphics, verified by render)](https://github.com/IvanKuria/ivans-menu/pull/2) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (3 months ago)
 - [Ivan's Menu — interactive Wii-style desktop launcher for macOS](https://github.com/IvanKuria/ivans-menu/pull/1) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (3 months ago)
-- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (3 months ago)
+- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (4 months ago)
 - [Add app icon, screenshots, and professional README](https://github.com/IvanKuria/tafuta/pull/2) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (4 months ago)
 - [Apple-native Liquid-Glass redesign + puppy mascot](https://github.com/IvanKuria/tafuta/pull/1) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (4 months ago)
 
