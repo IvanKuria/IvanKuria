@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (2 days ago)
-- [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (6 days ago)
+- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (3 days ago)
+- [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (1 week ago)
 - [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 week ago)
 - [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (1 week ago)
 - [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (1 week ago)
@@ -34,7 +34,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) ([v1.0.0](https://github.com/IvanKuria/pokeemerald-real-genetics/releases/tag/v1.0.0), 6 days ago) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald.
+- [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) ([v1.0.0](https://github.com/IvanKuria/pokeemerald-real-genetics/releases/tag/v1.0.0), 1 week ago) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald.
 - [colinvkim/Radix](https://github.com/colinvkim/Radix) ([v1.8.0](https://github.com/colinvkim/Radix/releases/tag/v1.8.0), 1 month ago) - Modern, extremely fast macOS disk space analyzer.
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) ([v2.2.0](https://github.com/IvanKuria/rate-my-slugs/releases/tag/v2.2.0), 2 months ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) ([v0.3.0](https://github.com/IvanKuria/sms-code-bridge/releases/tag/v0.3.0), 3 months ago)
