@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (3 days ago)
+- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (4 days ago)
 - [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (1 week ago)
 - [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 week ago)
 - [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (1 week ago)
-- [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (1 week ago)
+- [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (2 weeks ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (2 months ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (3 months ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (3 months ago)
