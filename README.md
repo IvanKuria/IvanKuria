@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (1 day ago)
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 day ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (2 days ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (2 days ago)
 - [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (2 weeks ago)
 - [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (2 weeks ago)
 - [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (3 weeks ago)
