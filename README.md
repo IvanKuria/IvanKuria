@@ -1,5 +1,6 @@
 #### 🌱 My latest projects
 
+- [IvanKuria/minecraft-first-world](https://github.com/IvanKuria/minecraft-first-world) - Code from my attempt to recover the world in Notch's first Minecraft video (May 2009). Unsolved - tools and partial results.
 - [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry.
 - [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald.
 - [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one.
@@ -9,20 +10,19 @@
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type.
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) - 
 - [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo.
-- [IvanKuria/reveille-ratings](https://github.com/IvanKuria/reveille-ratings) - Rate My Professors ratings + TAMU grade distributions on Texas A&M's public class search
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (2 days ago)
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (2 days ago)
-- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (2 weeks ago)
+- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (1 day ago)
+- [IvanKuria/minecraft-first-world](https://github.com/IvanKuria/minecraft-first-world) - Code from my attempt to recover the world in Notch's first Minecraft video (May 2009). Unsolved - tools and partial results. (1 day ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (1 day ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (3 days ago)
 - [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (2 weeks ago)
 - [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (3 weeks ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (3 months ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (3 months ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (3 months ago)
 - [IvanKuria/ivans-menu-wii-pack](https://github.com/IvanKuria/ivans-menu-wii-pack) -  (4 months ago)
-- [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) - An unofficial, Wii-menu-inspired interactive desktop launcher for macOS. Not affiliated with Nintendo. (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
