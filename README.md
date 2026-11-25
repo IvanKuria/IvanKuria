@@ -13,12 +13,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (3 days ago)
-- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (4 days ago)
-- [IvanKuria/minecraft-first-world](https://github.com/IvanKuria/minecraft-first-world) - Code from my attempt to recover the world in Notch's first Minecraft video (May 2009). Unsolved - tools and partial results. (4 days ago)
-- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (6 days ago)
+- [IvanKuria/emerald-evolved-web](https://github.com/IvanKuria/emerald-evolved-web) - The Emerald Evolved website: play the patch in your browser (bring your own ROM), a breeding sandbox and the Species Registry. (4 days ago)
+- [IvanKuria/cost-study-repricer](https://github.com/IvanKuria/cost-study-repricer) - Agricultural cost study repricer (5 days ago)
+- [IvanKuria/minecraft-first-world](https://github.com/IvanKuria/minecraft-first-world) - Code from my attempt to recover the world in Notch's first Minecraft video (May 2009). Unsolved - tools and partial results. (5 days ago)
+- [IvanKuria/cost-return-tool-sf](https://github.com/IvanKuria/cost-return-tool-sf) - cost and return tool for diverse farming operations (1 week ago)
 - [IvanKuria/pokeemerald-real-genetics](https://github.com/IvanKuria/pokeemerald-real-genetics) - Pokémon Emerald, but breeding follows real genetics. Playable version of the video 'I Gave Pokémon Real Genetics'. Built on pret/pokeemerald. (3 weeks ago)
-- [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (4 weeks ago)
+- [IvanKuria/minecraft-periodic-table](https://github.com/IvanKuria/minecraft-periodic-table) - Minecraft's own periodic table, built from the game's recipe files the same way Mendeleev built the real one. (1 month ago)
 - [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) -  (3 months ago)
 - [IvanKuria/sms-code-bridge](https://github.com/IvanKuria/sms-code-bridge) -  (3 months ago)
 - [IvanKuria/marlowe](https://github.com/IvanKuria/marlowe) - A cat sits on your pages and writes a novel out of your typing. Counts keystrokes only, never what you type. (4 months ago)
@@ -28,7 +28,7 @@
 
 - [Faithful Wii Menu UI redesign (custom Core Graphics, verified by render)](https://github.com/IvanKuria/ivans-menu/pull/2) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (4 months ago)
 - [Ivan's Menu — interactive Wii-style desktop launcher for macOS](https://github.com/IvanKuria/ivans-menu/pull/1) on [IvanKuria/ivans-menu](https://github.com/IvanKuria/ivans-menu) (4 months ago)
-- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (4 months ago)
+- [TypeScript port + cleanup](https://github.com/IvanKuria/rate-my-slugs/pull/41) on [IvanKuria/rate-my-slugs](https://github.com/IvanKuria/rate-my-slugs) (5 months ago)
 - [Add app icon, screenshots, and professional README](https://github.com/IvanKuria/tafuta/pull/2) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (5 months ago)
 - [Apple-native Liquid-Glass redesign + puppy mascot](https://github.com/IvanKuria/tafuta/pull/1) on [IvanKuria/tafuta](https://github.com/IvanKuria/tafuta) (5 months ago)
 
